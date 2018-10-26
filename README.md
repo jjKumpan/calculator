@@ -13,6 +13,6 @@ I used a simple css in App.css wich I think suited the size of the application.
 For larger projects where the amout of components grow, I would use styled components,
 css modules or css in js depending on the developing teams/projects prefered choice.
 
-##Test
+## Test
 To test run `npm run test`.
 Right now there is only a small jest unit test checking the utils, but can be expanded!
